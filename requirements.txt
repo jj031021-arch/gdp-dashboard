@@ -1,2 +1,7 @@
 streamlit
+folium
+streamlit-folium
 pandas
+altair
+google-generativeai
+gradio
